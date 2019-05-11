@@ -2,8 +2,17 @@ body {
 	margin: 0;
 	display: flex;
 	flex-direction: column;
+
+
+background-image: url("poke.jpg");
+	background-repeat: no-repeat;
+	background-size: 1500px 750px;
 }
 
+
+
+
+}
 #header {
 	width: 100%;
 	text-align: center;
